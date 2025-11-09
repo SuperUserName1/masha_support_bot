@@ -1,0 +1,4 @@
+/.venv
+.env
+masha_bot_bd
+__pycache__
